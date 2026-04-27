@@ -49,7 +49,7 @@ const profile = {
   title: "MERN Full-Stack Developer",
   location: "Roorkee, India",
   email: "professionalanshu12@gmail.com",
-  linkedin: "linkedin.com/in/anshuutyagi",
+  linkedin: "https://linkedin.com/in/anshuutyagi",
   github: "https://github.com/anshu-work724",
   objective:
     "I design and build scalable React interfaces, secure Express APIs, realtime communication systems, and database structures that make full-stack products feel fast and dependable.",

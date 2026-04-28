@@ -61,7 +61,7 @@ const profile = {
     },
     {
       institution: "Skyward Sr. Sec. School",
-      detail: "Intermediate 82% and High School 92%",
+      detail: "Intermediate CBSE and High School CBSE",
       timeline: "2021 - 2023",
     },
   ],
